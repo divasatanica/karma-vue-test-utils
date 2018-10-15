@@ -1,0 +1,22 @@
+{
+  "name": "karma-vue-test-utils",
+  "version": "0.1.0",
+  "description": "Karma - Vue-test-utils plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "karma-plugin",
+    "karma",
+    "vue-test-utils",
+    "unit test"
+  ],
+  "peerDependencies": {
+    "@vue/test-utils": "*",
+    "vue": "2.1.7",
+    "karma": ">=0.10.9"
+  },
+  "author": "coma",
+  "license": "MIT"
+}
